@@ -1,0 +1,15 @@
+/Users/pawelnowak/RiderProjects/Cwieczenia/Zadanie10/bin/Debug/net5.0/Zadanie10.deps.json
+/Users/pawelnowak/RiderProjects/Cwieczenia/Zadanie10/bin/Debug/net5.0/Zadanie10.runtimeconfig.json
+/Users/pawelnowak/RiderProjects/Cwieczenia/Zadanie10/bin/Debug/net5.0/Zadanie10.runtimeconfig.dev.json
+/Users/pawelnowak/RiderProjects/Cwieczenia/Zadanie10/bin/Debug/net5.0/Zadanie10.dll
+/Users/pawelnowak/RiderProjects/Cwieczenia/Zadanie10/bin/Debug/net5.0/ref/Zadanie10.dll
+/Users/pawelnowak/RiderProjects/Cwieczenia/Zadanie10/bin/Debug/net5.0/Zadanie10.pdb
+/Users/pawelnowak/RiderProjects/Cwieczenia/Zadanie10/obj/Debug/net5.0/Zadanie10.csproj.AssemblyReference.cache
+/Users/pawelnowak/RiderProjects/Cwieczenia/Zadanie10/obj/Debug/net5.0/Zadanie10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pawelnowak/RiderProjects/Cwieczenia/Zadanie10/obj/Debug/net5.0/Zadanie10.AssemblyInfoInputs.cache
+/Users/pawelnowak/RiderProjects/Cwieczenia/Zadanie10/obj/Debug/net5.0/Zadanie10.AssemblyInfo.cs
+/Users/pawelnowak/RiderProjects/Cwieczenia/Zadanie10/obj/Debug/net5.0/Zadanie10.csproj.CoreCompileInputs.cache
+/Users/pawelnowak/RiderProjects/Cwieczenia/Zadanie10/obj/Debug/net5.0/Zadanie10.dll
+/Users/pawelnowak/RiderProjects/Cwieczenia/Zadanie10/obj/Debug/net5.0/ref/Zadanie10.dll
+/Users/pawelnowak/RiderProjects/Cwieczenia/Zadanie10/obj/Debug/net5.0/Zadanie10.pdb
+/Users/pawelnowak/RiderProjects/Cwieczenia/Zadanie10/obj/Debug/net5.0/Zadanie10.genruntimeconfig.cache

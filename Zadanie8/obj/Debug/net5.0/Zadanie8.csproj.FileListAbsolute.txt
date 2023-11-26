@@ -1,0 +1,15 @@
+/Users/pawelnowak/RiderProjects/Cwieczenia/Zadanie8/bin/Debug/net5.0/Zadanie8.deps.json
+/Users/pawelnowak/RiderProjects/Cwieczenia/Zadanie8/bin/Debug/net5.0/Zadanie8.runtimeconfig.json
+/Users/pawelnowak/RiderProjects/Cwieczenia/Zadanie8/bin/Debug/net5.0/Zadanie8.runtimeconfig.dev.json
+/Users/pawelnowak/RiderProjects/Cwieczenia/Zadanie8/bin/Debug/net5.0/Zadanie8.dll
+/Users/pawelnowak/RiderProjects/Cwieczenia/Zadanie8/bin/Debug/net5.0/ref/Zadanie8.dll
+/Users/pawelnowak/RiderProjects/Cwieczenia/Zadanie8/bin/Debug/net5.0/Zadanie8.pdb
+/Users/pawelnowak/RiderProjects/Cwieczenia/Zadanie8/obj/Debug/net5.0/Zadanie8.csproj.AssemblyReference.cache
+/Users/pawelnowak/RiderProjects/Cwieczenia/Zadanie8/obj/Debug/net5.0/Zadanie8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pawelnowak/RiderProjects/Cwieczenia/Zadanie8/obj/Debug/net5.0/Zadanie8.AssemblyInfoInputs.cache
+/Users/pawelnowak/RiderProjects/Cwieczenia/Zadanie8/obj/Debug/net5.0/Zadanie8.AssemblyInfo.cs
+/Users/pawelnowak/RiderProjects/Cwieczenia/Zadanie8/obj/Debug/net5.0/Zadanie8.csproj.CoreCompileInputs.cache
+/Users/pawelnowak/RiderProjects/Cwieczenia/Zadanie8/obj/Debug/net5.0/Zadanie8.dll
+/Users/pawelnowak/RiderProjects/Cwieczenia/Zadanie8/obj/Debug/net5.0/ref/Zadanie8.dll
+/Users/pawelnowak/RiderProjects/Cwieczenia/Zadanie8/obj/Debug/net5.0/Zadanie8.pdb
+/Users/pawelnowak/RiderProjects/Cwieczenia/Zadanie8/obj/Debug/net5.0/Zadanie8.genruntimeconfig.cache
