@@ -10,7 +10,7 @@ Zaimplementuj kalkulator BMI (wskaźnik masy ciała, ang. body mass index) masa 
 
 ## Zadanie 3
 ### Zadanie 2.3 - Kantor
-Zaimplementuj kalkulato
+Zaimplementuj kalkulator walutowy. Sprawdź obecne kursy wymiany walut i zakoduj je na stałe. Użytkownik jest proszony o podanie kwoty w PLN oraz waluty docelowej (do wyboru EUR, CHF, GBP). Niech program najpierw przelicza kwotę na walutę pośrednią w USD, a następnie na walutę docelową. Wynik przewalutowania wyświetl w konsoli.
 
 ## Zadanie 4
 ### Zadanie 2.4 - Kontrola dostępu
